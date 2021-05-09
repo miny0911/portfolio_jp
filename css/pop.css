@@ -1,0 +1,3 @@
+.popup{display: none; position: absolute; top: 0; left: 0; background: rgba(0,0,0,0.5);}
+.box{background-color: white;}
+.box img{width: 200px;}
